@@ -1,10 +1,10 @@
-# CropPing Demo v2
+# CropPing
 
 A lightweight React + Vite prototype for a farm input reminder service. It helps simulate a farmer onboarding flow, generate crop-stage calendars, and preview reminder delivery logic for a crop advisory workflow.
 
 ## Overview
 
-CropPing Demo v2 is a browser-based prototype designed to showcase how a field service could:
+CropPing is a browser-based prototype designed to showcase how a field service could:
 
 - collect basic farmer and crop information
 - generate a crop stage timeline from sowing date
